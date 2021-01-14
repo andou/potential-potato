@@ -7,7 +7,7 @@ author: Antonio Pastorino
 description: Parole un pò a caso su cose a caso
 lang: it
 locale: it_IT
-url: "http://potential-potato.site"
+url: "https://potential-potato.netlify.app"
 baseurl: ""
 
 # RSS feeds
